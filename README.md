@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Khaemba
 - 👀 I’m interested in building applications that solve world problems
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on any javascript, react, nextjs, and node
 - 📫 You  can reach me  on tommybwah@gmail.com
 
