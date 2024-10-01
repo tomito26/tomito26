@@ -3,9 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomito26&label=Profile%20views&color=0e75b6&style=flat" alt="tomito26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomito26" alt="tomito26" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ingasia26" target="blank"><img src="https://img.shields.io/twitter/follow/ingasia26?logo=twitter&style=for-the-badge" alt="ingasia26" /></a> </p>
+
+- 🌱 I’m currently learning **Typescript, NextJs, Docker**
+
+- 👯 I’m looking to collaborate on **On any projects**
+
+- 👨‍💻 All of my projects are available at [https://thomaskhaemba.netlify.app/](https://thomaskhaemba.netlify.app/)
+
+- 💬 Ask me about **React, JavaScript, TypeScript**
+
+- 📫 How to reach me **tommybwah@gmail.com**
+
+- ⚡ Fun fact **I enjoy traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
